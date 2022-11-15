@@ -1,6 +1,6 @@
-*backup
-*old
-*tmp
-.DS_Store
-Thumbs.db
+*.*backup
+*.*old
+tmp/
+*.DS_Store
+*Thumbs.db
 TestRep/
